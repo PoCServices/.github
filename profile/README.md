@@ -1,4 +1,4 @@
-Created in 2020, **PoC Services regroups the best [EPITECH]() students** trained in new technologies within the **first french student innovation center [PoC]()**.
+Created in 2020, **PoC Services regroups the best [EPITECH](https://www.epitech.eu/en/) students** trained in new technologies within the **first french student innovation center [PoC](https://www.poc-innovation.fr/)**.
 
 **Artificial Intelligence, Cybersecurity, Software, Web application, Blockchain** ... PoC Services provides companies with the best of innovation.
 
